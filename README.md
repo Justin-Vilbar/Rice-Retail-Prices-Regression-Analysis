@@ -39,6 +39,8 @@ The study sought to answer four critical questions:
 
 The study utilized a Multiple Linear Regression Model (MLRM) represented by the following equation:
 
+$$Y_{i}=\beta_{0}+\beta_{1}X_{1}+\beta_{2}X_{2}+\dots+\beta_{11}X_{11}+\epsilon$$
+
 Variables Used 
 
 * **Dependent Variables**: Retail prices of well-milled, regular-milled, and special-milled rice.
