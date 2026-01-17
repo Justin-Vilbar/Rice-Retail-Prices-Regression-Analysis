@@ -1,0 +1,40 @@
+,,,,,
+,,2020,2021,2022,2023
+,,Annual,Annual,Annual,Annual
+..Cordillera Administrative Region (CAR),rice_wellMilled,41.98,42.93,43.63,46.86
+,rice_regularMilled,38.35,38.16,39.2,41.98
+,rice_special,48.18,47.76,48.92,52.22
+,volumePalay,376473.48,377133.35,338067.44,331469.66
+,areaPalay,102562.19,101555.75,97568.03,96233.01
+,fertilizer_areaApplied,79776.54,86341.79,82860.63,85570.43
+..REGION I (ILOCOS REGION),rice_wellMilled,41.42,41.11,40.48,43.9
+,rice_regularMilled,36.4,36.35,36.7,40.14
+,rice_special,50.55,51.14,50.87,53.98
+,volumePalay,1902661.85,1902342.6,1965372.37,1990286.68
+,areaPalay,407701,409035,407408.35,410924.75
+,fertilizer_areaApplied,406086.51,409013,406411.29,409309.43
+..REGION II (CAGAYAN VALLEY),rice_wellMilled,44.82,44.79,44.53,48.57
+,rice_regularMilled,35.13,35.44,35.5,39.49
+,rice_special,51.69,53.25,53.07,56.22
+,volumePalay,2645776.78,2909950.48,2928165.7,3026087.62
+,areaPalay,589717,613121.35,622058.3,632728.4
+,fertilizer_areaApplied,589379,612913,620200.05,631749.41
+,fertilizer_allGrades,6.4,7.06,5.74,6.46
+..REGION III (CENTRAL LUZON),rice_wellMilled,42.84,44.17,44.25,47.95
+,rice_regularMilled,36.99,37.34,38.22,42.38
+,rice_special,53.25,52.99,54.02,57.19
+,volumePalay,3635147.59,3741210.53,3616712.39,3638431.28
+,areaPalay,711208.1,728062.51,705078.46,692876.98
+,fertilizer_areaApplied,707051.26,724200.98,702782.71,692314.53
+..REGION IV-A (CALABARZON),rice_wellMilled,41.72,42.41,43.28,45.78
+,rice_regularMilled,38.44,38.08,38.7,41.78
+,rice_special,50.09,50.73,51.53,53.87
+,volumePalay,386919.93,409915.07,395898.69,433399.42
+,areaPalay,106265.69,110537.97,105611.7,108319.97
+,fertilizer_areaApplied,102208.62,100097.08,98025.29,98136.15
+..REGION V (BICOL REGION),rice_wellMilled,41.66,41.62,42.16,46.13
+,rice_regularMilled,37.86,38.21,38.86,42.62
+,rice_special,45.32,49.19,49.67,53.97
+,volumePalay,1294991.12,1346952.44,1329004.41,1302648.98
+,areaPalay,346628.99,346009.56,348848.02,344007.21
+,fertilizer_areaApplied,322873.93,332990.33,331056.25,335945.91
