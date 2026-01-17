@@ -2,18 +2,13 @@
 
 ## Authors
 
-* 
-**Paul Matthew Gayatiña** (De La Salle University) 
+* **Paul Matthew Gayatiña** (De La Salle University) 
 
 
-* 
-**Justin Christian Vilbar** (De La Salle University) 
+* **Justin Christian Vilbar** (De La Salle University) 
 
 
-* 
-**Julia James Berin** (De La Salle University) 
-
-
+* **Julia James Berin** (De La Salle University) 
 
 ---
 
@@ -38,14 +33,11 @@ The study sought to answer four critical questions:
 
 4. How much of the total variation in rice prices can be explained by these statistical models? 
 
-
-
 ---
 
 ## Methodology
 
 The study utilized a Multiple Linear Regression Model (MLRM) represented by the following equation:
-
 
 Variables Used 
 
@@ -57,8 +49,6 @@ Variables Used
 * **Regional Dummies**: Regions II, III, IV-A, V, and CAR (Region I as base).
 * **Temporal Dummies**: Years 2020, 2022, and 2023 (Year 2021 as base).
 
-
-
 ### Statistical Tools
 
 Data was processed using **SAS (Statistical Analysis System)** software. Models were selected through automatic search procedures, including forward selection, backward elimination, and stepwise selection.
@@ -69,60 +59,42 @@ Data was processed using **SAS (Statistical Analysis System)** software. Models 
 
 ### 1. Well-Milled Rice
 
-* 
-**Significant Predictors**: Production volume, Regions II and III, and years 2020 and 2023.
+* **Significant Predictors**: Production volume, Regions II and III, and years 2020 and 2023.
 
 
-* 
-**Findings**: Production volume has a negative correlation with price, indicating that higher supply generally lowers retail costs.
+* **Findings**: Production volume has a negative correlation with price, indicating that higher supply generally lowers retail costs.
 
 
-* 
-**Explanatory Power**: The model explains **94.09%** of price variations.
-
-
+* **Explanatory Power**: The model explains **94.09%** of price variations.
 
 ### 2. Regular-Milled Rice
 
-* 
-**Significant Predictors**: Harvested area, Regions III and V, and years 2022 and 2023.
+* **Significant Predictors**: Harvested area, Regions III and V, and years 2022 and 2023.
 
 
-* 
-**Findings**: Harvested area has an inverse relationship with price. Regions III and V showed strong positive price effects.
+* **Findings**: Harvested area has an inverse relationship with price. Regions III and V showed strong positive price effects.
 
 
-* 
-**Explanatory Power**: This model demonstrated the strongest explanatory power at **97.37%**.
-
-
+* **Explanatory Power**: This model demonstrated the strongest explanatory power at **97.37%**.
 
 ### 3. Special-Milled Rice
 
-* 
-**Significant Predictors**: Fertilizer application area, Region V, CAR, and years 2020 and 2023.
+* **Significant Predictors**: Fertilizer application area, Region V, CAR, and years 2020 and 2023.
 
 
-* 
-**Findings**: Fertilizer application is a key determinant, showing a positive correlation with price.
+* **Findings**: Fertilizer application is a key determinant, showing a positive correlation with price.
 
 
-* 
-**Explanatory Power**: The log-transformed model explains **87.55%** of price variations.
-
-
+* **Explanatory Power**: The log-transformed model explains **87.55%** of price variations.
 
 ---
 
 ## Implications
 
-* 
-**Department of Agriculture (DA)**: The data offers a framework for designing regional price stabilization strategies and food security programs.
+* **Department of Agriculture (DA)**: The data offers a framework for designing regional price stabilization strategies and food security programs.
 
 
-* 
-**Farmers**: Insights can help optimize fertilizer use and production strategies to maximize economic returns.
+* **Farmers**: Insights can help optimize fertilizer use and production strategies to maximize economic returns.
 
 
-* 
-**Consumers**: Increased awareness of regional price trends and the factors influencing their staple food.
+* **Consumers**: Increased awareness of regional price trends and the factors influencing their staple food.
