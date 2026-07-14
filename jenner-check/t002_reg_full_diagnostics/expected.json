@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-14T14:20:38.504119+00:00",
+  "_captured_run_id": "r_8610b6384714414d9043569d74c543f3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Output dataset wellresult written.",
+    "NOTE: PROC UNIVARIATE",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC ANOVA: 24 observations, 1 effects analyzed"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

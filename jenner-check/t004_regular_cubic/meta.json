@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_regular_cubic",
+  "source_file": "research.sas",
+  "source_blob_sha": "b01007d254dd8c950ba86a16949e9a1b1e048a7a",
+  "source_commit": "a7b2949be935188316333fd86a8550b94023cb59",
+  "notes": "research.sas lines 72-91: PROC CORR on regularMilled, then DATA rice2 forming the cubic regularMilled3 = regularMilled**3, then PROC REG selection=rsquare and full-diagnostics REG with output out=regresult. Data rice rebuilt inline. Script logic unchanged."
+}

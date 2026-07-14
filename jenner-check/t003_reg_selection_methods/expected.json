@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-14T14:20:38.504119+00:00",
+  "_captured_run_id": "r_f1df0198415641a5bdb419e3a721d468",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Output dataset wellforward written.",
+    "NOTE: Output dataset wellbackward written.",
+    "NOTE: Output dataset wellstep written.",
+    "NOTE: PROC REG: processed 1 job(s) in batch"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
