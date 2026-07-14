@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_reg_full_diagnostics",
+  "source_file": "research.sas",
+  "source_blob_sha": "b01007d254dd8c950ba86a16949e9a1b1e048a7a",
+  "source_commit": "a7b2949be935188316333fd86a8550b94023cb59",
+  "notes": "research.sas lines 13-31: full-diagnostics PROC REG (clm cli clb covb corrb all r influence dwprob vif tol collin) with output out=wellresult, then PROC UNIVARIATE (plot normal), PROC MEANS, and PROC ANOVA (class year, hovtest=Levene) on the residuals. Data rice rebuilt inline. Script logic unchanged."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_reg_selection_methods",
+  "source_file": "research.sas",
+  "source_blob_sha": "b01007d254dd8c950ba86a16949e9a1b1e048a7a",
+  "source_commit": "a7b2949be935188316333fd86a8550b94023cb59",
+  "notes": "research.sas lines 37-70: three PROC REG runs with selection=forward / backward / stepwise (slentry/slstay=0.05) on wellMilled, each writing an output dataset of predictions and residuals. Data rice rebuilt inline. Script logic unchanged."
+}

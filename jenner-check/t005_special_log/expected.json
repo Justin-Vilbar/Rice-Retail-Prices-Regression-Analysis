@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-14T14:20:38.504119+00:00",
+  "_captured_run_id": "r_13307ee4906149c4998ddd4e97a93338",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote rice3 (24 rows, 18 columns).",
+    "NOTE: PROC PRINT completed: 24 observations printed, 18 variables",
+    "NOTE: Output dataset specialresult written.",
+    "NOTE: PROC UNIVARIATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

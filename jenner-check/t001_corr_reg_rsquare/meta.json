@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_corr_reg_rsquare",
+  "source_file": "research.sas",
+  "source_blob_sha": "b01007d254dd8c950ba86a16949e9a1b1e048a7a",
+  "source_commit": "a7b2949be935188316333fd86a8550b94023cb59",
+  "notes": "research.sas lines 1-11: PROC PRINT + PROC CORR (wellMilled vs volumePalay/areaPalay/areaApplied) + PROC REG selection=rsquare adjrsq mse cp AIC SBC press. Self-contained: the rice DATA step (rebuilt from the study's Updated Data.csv, 24 rows) is inlined into script.sas so it runs standalone. Script logic unchanged."
+}
